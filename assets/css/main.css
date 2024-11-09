@@ -1035,7 +1035,7 @@ section,
 
 .about .content ul i {
   flex-shrink: 0;
-  font-size: 48px;
+  font-size: 35px;
   color: var(--accent-color);
   margin-right: 20px;
 }
