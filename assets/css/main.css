@@ -957,6 +957,7 @@ section,
   background: var(--accent-color);
   padding: 30px;
   border-radius: 4px;
+  opacity: 0.9 !important;
 }
 
 .hero .content .why-box h3 {
